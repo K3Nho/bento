@@ -143,15 +143,15 @@ const CONFIG = {
 					link: 'https://x.com',
 				},
 				{
-					name: 'Youtube',
+					name: 'youtube',
 					link: 'https://www.youtube.com',
 				},
 				{
-					name: 'Bilibili',
+					name: 'bilibili',
 					link: 'https://www.bilibili.com',
 				},
 				{
-					name: 'Nodeseek',
+					name: 'nodeseek',
 					link: 'https://www.nodeseek.com/?sortBy=postTime',
 				},
 			],
@@ -161,19 +161,19 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Github',
+					name: 'github',
 					link: 'https://github.com',
 				},
 				{
-					name: 'Gmail',
+					name: 'gmail',
 					link: 'https://mail.google.com',
 				},
 				{
-					name: 'Qmail',
+					name: 'qmail',
 					link: 'https://mail.qq.com',
 				},
 				{
-					name: 'Grok',
+					name: 'grok',
 					link: 'https://grok.com',
 				},
 			],
@@ -187,11 +187,11 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Coinmarketcap',
+					name: 'coinmarketcap',
 					link: 'https://coinmarketcap.com/zh',
 				},
 				{
-					name: 'Binance',
+					name: 'binance',
 					link: 'https://www.binance.com/zh-CN/my/wallet/account/overview',
 				},
 				{
@@ -199,7 +199,7 @@ const CONFIG = {
 					link: 'https://www.okx.com/zh-hans/balance/overview',
 				},
 				{
-					name: 'Bybit',
+					name: 'bybit',
 					link: 'https://www.bybit.com/en/cards',
 				},
 			],
@@ -213,16 +213,16 @@ const CONFIG = {
 					link: 'http://192.168.1.1:8080',
 				},
 				{
-					name: 'Binance',
-					link: 'https://www.binance.com/zh-CN/my/wallet/account/overview',
+					name: 'odin',
+					link: 'https://odin.fun',
 				},
 				{
-					name: 'okx',
-					link: 'https://www.okx.com/zh-hans/balance/overview',
+					name: 'tyche',
+					link: 'https://tyche.run',
 				},
 				{
-					name: 'Bybit',
-					link: 'https://www.bybit.com/en/cards',
+					name: 'baby',
+					link: 'https://tyche.baby/scan',
 				},
 			],
 		},
