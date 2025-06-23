@@ -29,7 +29,7 @@ const CONFIG = {
 	weatherKey: '2fd20a18921a2edc47d47628805524b2', // Write here your API Key
 	weatherIcons: 'White', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
-	language: 'zh-cn', // More languages in https://openweathermap.org/current#multi
+	language: 'zh_cn', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
 	defaultLatitude: '23.129110',
@@ -139,7 +139,7 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: '𝕏',
+					name: 'X',
 					link: 'https://x.com',
 				},
 				{
@@ -211,6 +211,18 @@ const CONFIG = {
 				{
 					name: 'qbittorrent',
 					link: 'http://192.168.1.1:8080',
+				},
+				{
+					name: 'Binance',
+					link: 'https://www.binance.com/zh-CN/my/wallet/account/overview',
+				},
+				{
+					name: 'okx',
+					link: 'https://www.okx.com/zh-hans/balance/overview',
+				},
+				{
+					name: 'Bybit',
+					link: 'https://www.bybit.com/en/cards',
 				},
 			],
 		},
