@@ -218,7 +218,7 @@ const CONFIG = {
 				},
 				{
 					name: 'tyche',
-					link: 'https://tyche.run',
+					link: 'https://tyche.run/zh/lucky-pump',
 				},
 				{
 					name: 'baby',
