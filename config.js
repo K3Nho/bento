@@ -200,7 +200,7 @@ const CONFIG = {
 				},
 				{
 					name: 'bybit',
-					link: 'https://www.bybit.com/en/cards',
+					link: 'https://www.bybit.com/cards/dashboard',
 				},
 			],
 		},
